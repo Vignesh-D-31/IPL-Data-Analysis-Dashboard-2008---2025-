@@ -14,7 +14,7 @@ By leveraging Power Query, DAX, and data modeling, I built an interactive dashbo
 - How did teams perform across different years?
 - What do the points table dynamics look like?
 
-####🔑 Key Features
+#### 🔑 Key Features
 ✅ Season-wise summary across 18 IPL editions
 ✅ KPI Cards for tournament highlights – Winners, Runner-Ups, Total Matches, Sixes, Fours, Dot Balls, Fifties, Hundreds, Teams Played
 ✅ Player Insights – Orange Cap, Purple Cap, Most Sixes, Most Fours
@@ -23,14 +23,14 @@ By leveraging Power Query, DAX, and data modeling, I built an interactive dashbo
 ✅ Drillthrough & Tooltips for deeper exploration
 ✅ Clean, visually appealing design with storytelling elements
 
-####🛠️ Tools & Technologies
+#### 🛠️ Tools & Technologies
 Power BI Desktop – Dashboard creation
 Power Query – Data cleaning & shaping
 DAX – Measures & calculated columns
 
-🌐 Explore the interactive dashboard here 👉 : https://app.powerbi.com/groups/me/reports/d1658014-1ce6-4a15-976e-3031048254c3/aa9197c56cf1f919d827?experience=power-bi 
+##### 🌐 Explore the interactive dashboard here 👇 : https://app.powerbi.com/groups/me/reports/d1658014-1ce6-4a15-976e-3031048254c3/aa9197c56cf1f919d827?experience=power-bi 
 
-####📊 Dashboard Preview
+#### 📊 Dashboard Preview
 ![2025_Dashboard](https://github.com/user-attachments/assets/11109b84-e72f-47c1-8cee-8c22f0a035ac)
 ![2018_Dashboard](https://github.com/user-attachments/assets/823c0f80-4197-41d6-bd5e-41f362a17ee4)
 ![2011_Dashboard](https://github.com/user-attachments/assets/6e0d6efb-e40a-41d6-883b-61d151bc7abb)
