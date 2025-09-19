@@ -1,4 +1,4 @@
-🏏 IPL Data Analysis (2008–2025) – Power BI Project
+# 🏏 IPL Data Analysis (2008–2025) – Power BI Project
 
 This project is an end-to-end Power BI dashboard analyzing 18 seasons of the Indian Premier League (IPL), from 2008 to 2025.
 The goal is to transform raw IPL data into meaningful insights through interactive visualizations, performance metrics, and storytelling with data.
